@@ -30,5 +30,4 @@ El simulador valida los datos, muestra una evaluación individual y al final cal
 5. Revisar el resumen final.
 6. Abrir la consola del navegador con F12 para ver también los resultados por consola.
 
-## Entrega
-Subir estos archivos a un repositorio público de GitHub y compartir la URL del repositorio.
+
